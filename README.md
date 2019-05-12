@@ -10,4 +10,4 @@
 5) Add as many words as you want. Use utf-8 formatting.
 
 Remark:
-The app is being developed and is far from perfect. But it works and serves its purpose :)
+The app is constantly being developed and is far from being perfect. But it works and serves its purpose :)
