@@ -8,3 +8,6 @@
 4) Here, write a word in English, tab and corresponding word in Spanish (see sample .txt file).
 
 5) Add as many words as you want. Use utf-8 formatting.
+
+Remark:
+The app is being developed and is far from perfect. But it works and serves its purpose :)
