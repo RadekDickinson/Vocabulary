@@ -3,7 +3,7 @@
 
 2) In "Data" folder, create a folder named by the language you want to practice, say "Spanish".
 
-3) In "English" folder, create a .txt file. 
+3) In "Spanish" folder, create a .txt file. 
 
 4) Here, write a word in English, tab and corresponding word in Spanish (see sample .txt file).
 
