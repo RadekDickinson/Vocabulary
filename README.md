@@ -1,5 +1,5 @@
 # Vocabulary
-1) Create a folder called "Data" in same file where you have the .py script.
+1) Create a folder called "Data" in the file where you have the .py script.
 
 2) In "Data" folder, create a folder named by the language you want to practice, say "Spanish".
 
